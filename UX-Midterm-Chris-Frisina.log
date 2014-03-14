@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 MAR 2014 10:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 MAR 2014 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,7 +381,36 @@ LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <14.4> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
 (Font)              scaled to size 12.9599pt on input line 29.
+Missing character: There is no ^^B in font nullfont!
+Missing character: There is no ^^B in font nullfont!
 
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+Missing character: There is no ^^B in font nullfont!
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+Missing character: There is no ^^B in font nullfont!
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+Missing character: There is no ^^B in font nullfont!
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -400,21 +429,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] (./UX-Midterm-Chris-Frisina.aux) ) 
 Here is how much of TeX's memory you used:
- 3665 strings out of 493315
- 53548 string characters out of 6137904
- 123116 words of memory out of 5000000
+ 3666 strings out of 493315
+ 53554 string characters out of 6137904
+ 126116 words of memory out of 5000000
  7049 multiletter control sequences out of 15000+600000
- 11007 words of font info for 25 fonts, out of 8000000 for 9000
+ 12114 words of font info for 26 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,11n,43p,306b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,43p,515b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts
 /enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helv
 etic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uh
-vbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on UX-Midterm-Chris-Frisina.pdf (2 pages, 29601 bytes).
+vbo8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on UX-Midterm-Chris-Frisina.pdf (2 pages, 45340 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
